@@ -1,7 +1,7 @@
 #include "Application.h"
 
-namespace Mipor {
 
+namespace Mipor {
 
 
 	Application::Application()

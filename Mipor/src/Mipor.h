@@ -1,9 +1,9 @@
 #pragma once
 
 //For use by Mipor Applications.
-
 #include "Mipor/Application.h"
+#include "Mipor/Log.h"
 
-// Entry Point
-
+// Entry Point last include
 #include "Mipor/EntryPoint.h"
+

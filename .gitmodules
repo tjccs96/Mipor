@@ -1,0 +1,3 @@
+[submodule "Mipor/vendor/spdlog"]
+	path = Mipor/vendor/spdlog
+	url = https://github.com/gabime/spdlog

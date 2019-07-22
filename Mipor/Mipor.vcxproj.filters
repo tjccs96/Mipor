@@ -15,21 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Mipor\Core.h">
+    <ClInclude Include="src\Mipor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Mipor\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Mipor.h">
+    <ClInclude Include="src\Mipor\Core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Mipor\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Mipor\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Mipor\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Mipor\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
